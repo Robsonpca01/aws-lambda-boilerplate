@@ -1,0 +1,13 @@
+# node
+node_modules
+
+# application build folder
+build
+
+# coverage folder
+coverage
+
+# misc
+*.log
+*.zip
+tf-work
